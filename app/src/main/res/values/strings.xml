@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Slack</string>
+    <string name="contacts">Contacts</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome">Welcome to Slack</string>
+    <string name="sign_up">Sign up</string>
+</resources>
